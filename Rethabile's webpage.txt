@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<title>
+Rethabile's Profile
+</title>
+</head>
+<body>
+ 
+<img src="images/me.jpg" alt "me"">
+<div class="hero"
+<nav>
+
+<h2 class="logo">Portfolio</h2>
+
+
+<ul>
+<li> href="#"> Home</a><li>
+<li> href="#"> About Us</a><li>
+<li> href="#"> Contact us</a><li>
+
+</ul>
+</nav>
+</div>
+</body>
+</html>
